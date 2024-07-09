@@ -2,6 +2,7 @@
 
 This is the basic card based componentes created
 
+  Follow here: https://x.com/Sachinandanp5
 
 # React + Vite
 
